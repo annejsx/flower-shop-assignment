@@ -1,0 +1,48 @@
+/* header style starts here */
+
+
+.frist-slide-container{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.frist-img{
+  max-width: 100%;
+  max-width: 100%;
+}
+.frist-text{
+  padding-right: 200px;
+}
+.frist-btn{
+  background-color: rgb(138, 28, 86);
+  padding: 20px 40 px;
+  border-radius: 5px;
+  border: none;
+  
+}
+
+ .sec-slide-text{
+  text-align: center;
+ } 
+.sec-slide-img{
+  display: grid;
+ align-items: center; 
+ grid-template-columns: 1fr 1fr 1fr;
+ column-gap: 5px;
+}
+.third-slide-container{
+  display: flex;
+}
+.third-text{
+  padding: 200px;
+}
+.btn-third {
+  background-color: rgb(207, 84, 203);
+  padding: 50 px;
+  border-radius: 5px;
+  border: none;
+}
+.fourth-text{
+  text-align: center;
+}
+
